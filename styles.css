@@ -2,4 +2,50 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container  {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+a {
+    text-decoration: none;
+    color: #787676;
+}
+header {
+    position: relative;
+    width: 80%;
+    height: 44px;
+    top: 23px;
+    margin-left: 8%;
+}
+nav li {
+    list-style-type: none;
+}
+.brand {
+    float: left;
+    margin-top: 2%;
+    height: 18px;
+}
+/* .nav-toggler {
+
+} */
+nav {
+    float: right;
+}
+.clear {
+    clear: both;
+}
+nav ul {
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+nav ul li a {
+    display: block;
+    margin: 10px 12px;
+    padding: 4px 0px;
+    font-size: 17px;
 }
