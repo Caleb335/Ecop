@@ -132,7 +132,7 @@ button:hover {
 }
 .more {
     margin-top: -1.5%;
-    margin-left: 60%;    
+    margin-left: 70%;    
 }
 .crime-description {
     margin-top: 4%;
@@ -146,4 +146,99 @@ button:hover {
     border-radius: 5px;
     margin: 18px;
     color: #fff;
+}
+.missing-person {
+    margin-top: 10%;
+}
+.image-description {
+    margin-top: 4%;
+    display: flex;
+    margin-left: 10%;
+}
+.image-description img {
+    height: 352px;
+    width: 472px;
+    border-radius: 5px;
+}
+.missing-person h2  {
+    color: #5558DB;
+}
+.more-persons a {
+    margin-top: -1.5%;
+    margin-left: 70%;
+    color: #5558DB;
+}
+.crime-statistics {
+    margin-top: 10%;
+}
+.crime-statistics img {
+    width: 1078px;
+    margin-left: 10%;
+}
+.latest-news {
+    display: inline-block;
+    width: 100%;
+    margin-top: 10%;
+    height: 400px;
+}
+.news-details {
+    color: #000;
+    margin-top: 2%;
+    margin-left: 8%;
+}
+.newsinfo {
+    height: 280px;
+    width: 200px;
+    border-radius: 5px;
+    margin: 18px;
+    color: #000;
+}
+.more-news {
+    margin-top: -1.5%;
+    margin-left: 70%;    
+}
+.news-description {
+    margin-top: 10%;
+    display: flex;
+    margin-left: 13%;
+}
+footer {
+    width: 100%;
+    background: #fcfcfc;
+}
+footer h4 {
+    margin-bottom: 1%;
+}
+footer p {
+    color: #787676;
+}
+.footer-content {
+    display: flex;
+    width: 80%;
+    margin-left: 8%;
+    margin-top: 3%;
+}
+.feats {
+    height: 72px;
+    width: 128px;
+}
+.Updates {
+    margin-left: 5%;
+}
+.ecop {
+    margin-left: 10%;
+}
+.ecop img {
+    height: 17px;
+}
+hr {
+    margin-top: 1%;
+}
+footer .copyright {
+    width: 80%;
+    margin-left: 8%;
+}
+.copyright p {
+    margin-top: 1%;
+    margin-bottom: 2%;
 }
